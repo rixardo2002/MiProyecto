@@ -1,1 +1,2 @@
 # MiProyecto
+Ricardo Gómez Ramos
